@@ -1,0 +1,6 @@
+﻿  Polynom.cpp
+C:\Users\днс\Desktop\labrab4\mp2-lab4-Polynom\mp2-lab4-Polynom\Polynom.cpp(23,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\днс\Desktop\labrab4\mp2-lab4-Polynom\mp2-lab4-Polynom\Polynom.cpp(42,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\днс\Desktop\labrab4\mp2-lab4-Polynom\mp2-lab4-Polynom\Polynom.cpp(119,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\днс\Desktop\labrab4\mp2-lab4-Polynom\mp2-lab4-Polynom\Polynom.cpp(509,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  mp2-lab4-Polynom.vcxproj -> C:\Users\днс\Desktop\labrab4\mp2-lab4-Polynom\x64\Debug\mp2-lab4-Polynom.exe
