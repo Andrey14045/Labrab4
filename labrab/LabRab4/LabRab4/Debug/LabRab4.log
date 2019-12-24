@@ -1,0 +1,7 @@
+﻿  Polynom.cpp
+C:\Users\днс\Desktop\Новая папка (3)\LabRab4\LabRab4\Polynom.cpp(21,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\днс\Desktop\Новая папка (3)\LabRab4\LabRab4\Polynom.cpp(23,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+C:\Users\днс\Desktop\Новая папка (3)\LabRab4\LabRab4\Polynom.cpp(509,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LabRab4.vcxproj -> C:\Users\днс\Desktop\Новая папка (3)\LabRab4\Debug\LabRab4.exe
